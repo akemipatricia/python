@@ -1,0 +1,10 @@
+# Quantidade de linhas e colunas mostradas
+
+import pandas as pd
+
+pd.set_option('display.max_columns', 500)
+pd.set_option("display.max_rows", 10000)
+
+# Não mostrar o warnings
+
+np.warnings.filterwarnings('ignore')
