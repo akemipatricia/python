@@ -1,4 +1,4 @@
-# Mudar o formato de várias variáveis ao mesmo tempo 
+# change variables format 
 
 var_data = ['var1','var2','var3']
 
